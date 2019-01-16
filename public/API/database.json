@@ -1,0 +1,20 @@
+{
+    "places": [
+      { 
+        "id": 1, 
+        "name": "Buenos Aires", 
+        "visa_required": false 
+      },
+      { 
+        "id": 2, 
+        "name": "Rio de Janeiro", 
+        "visa_required": true 
+      },
+      { 
+        "id": 3, 
+        "name": "Santiago", 
+        "visa_required": true
+      }
+    ],
+    "interests": []
+  }
